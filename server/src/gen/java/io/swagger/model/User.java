@@ -12,7 +12,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * User
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaJerseyServerCodegen", date = "2016-08-25T14:45:32.738Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaJerseyServerCodegen", date = "2016-08-25T14:46:03.746Z")
 public class User   {
   private String name = null;
 
