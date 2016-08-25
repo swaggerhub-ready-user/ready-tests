@@ -15,7 +15,7 @@ public class Bootstrap extends HttpServlet {
   public void init(ServletConfig config) throws ServletException {
     Info info = new Info()
       .title("My Bacon Server")
-      .description("fun")
+      .description("test")
       .termsOfService("")
       .contact(new Contact()
         .email(""))
