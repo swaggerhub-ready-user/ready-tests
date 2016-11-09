@@ -4,7 +4,7 @@
   <artifactId>java-server</artifactId>
   <packaging>jar</packaging>
   <name>java-server</name>
-  <version>1.0.1472179745962</version>
+  <version>1.0.1478736817200</version>
   <build>
     <sourceDirectory>src/main/java</sourceDirectory>
     <plugins>
